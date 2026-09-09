@@ -277,7 +277,7 @@ footer {
     padding: 8px 20px;
     display: flex;
     align-items: center;
-    gap: 12px;
+    justify-content: space-between;
 }
 
 .gov-banner button {
