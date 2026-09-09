@@ -263,4 +263,41 @@ footer {
     .footer-right {
         text-align: left;
     }
+    .gov-banner {
+    background: #f1f1f1;
+    color: #222;
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    border-bottom: 1px solid #ccc;
+}
+
+.gov-banner-inner {
+    max-width: 1200px;
+    margin: auto;
+    padding: 8px 20px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.gov-banner button {
+    background: none;
+    border: none;
+    padding: 0;
+    color: #0645ad;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.gov-details {
+    display: none;
+    max-width: 1200px;
+    margin: auto;
+    padding: 10px 20px 16px;
+    border-top: 1px solid #ccc;
+}
+
+.gov-details p {
+    margin: 4px 0 12px;
+}
 }
