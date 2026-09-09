@@ -263,10 +263,10 @@ footer {
     .footer-right {
         text-align: left;
     }
-    .gov-banner {
+   .gov-banner {
     background: #f1f1f1;
     color: #222;
-    font-family: Arial, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 14px;
     border-bottom: 1px solid #ccc;
 }
@@ -286,6 +286,7 @@ footer {
     padding: 0;
     color: #0645ad;
     cursor: pointer;
+    font-family: inherit;
     font-size: 14px;
 }
 
