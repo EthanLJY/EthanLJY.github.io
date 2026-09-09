@@ -1,3 +1,4 @@
+alert("JavaScript is working!");
 const govToggle = document.getElementById("gov-toggle");
 const govDetails = document.getElementById("gov-details");
 
