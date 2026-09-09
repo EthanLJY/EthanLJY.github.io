@@ -296,6 +296,9 @@ footer {
     padding: 10px 20px 16px;
     border-top: 1px solid #ccc;
 }
+    .gov-details[hidden] {
+    display: none !important;
+}
 
 .gov-details p {
     margin: 4px 0 12px;
